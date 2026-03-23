@@ -1,0 +1,13 @@
+{
+    "name": "gastouderopvang-marianne",
+    "version": "1.0.0",
+    "description": "Gastouderopvang Marianne Website",
+    "scripts": {
+          "dev": "vercel dev",
+          "build": "echo 'Build complete'",
+          "start": "echo 'Ready for Vercel deployment'"
+    },
+    "dependencies": {
+          "nodemailer": "^6.9.7"
+    }
+}
